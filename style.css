@@ -1,0 +1,152 @@
+.body{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
+
+
+.main_heading
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+    background-color:#F8FAE5;
+    text-align: center;
+    padding-inline-end: 25px;
+    color: #163020;
+    border: 10px;
+    border-color: black;
+    border-radius: 25px;
+    margin: auto;
+}
+
+.home_bar{
+    text-align: right;
+}
+
+.img{
+    align-items: center;
+    background-color: aqua;
+
+}
+
+.heading_1{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;    
+}
+
+
+.heading_2{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;    
+}
+
+
+.heading_3{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;    
+}
+
+
+.heading_4{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;    
+}
+.source{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+
+.ul_1{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    list-style-type: upper-roman;
+    list-style-position: outside;
+}
+
+
+.ul_2{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    list-style-type:lower-roman;
+    list-style-position: outside;
+}
+
+
+.p1{
+    text-indent: 50px;
+
+}
+
+.p2{
+    text-indent: 50px;
+
+}
+
+
+.p3{
+    text-indent: 50px;
+
+}
+
+
+.p4 {
+    text-indent: 50px;
+
+}
+
+.p5{
+    text-indent: 50px;
+
+}
+
+.p6{
+    text-indent: 50px;
+
+}
+
+.p7{
+    text-indent: 50px;
+
+}
+
+.p8{
+    text-indent: 50px;
+
+}
+
+.p9{
+    text-indent: 50px;
+
+}
+
+.p10{
+    text-indent: 50px;
+
+}
+
+.jasperai{
+        display: inline-block;
+        vertical-align: text-top;
+}
+
+.p11{
+    background-color: lightblue;
+    padding: 20px;
+    border: 50px;
+    border-color: #163020;
+}
+
+
